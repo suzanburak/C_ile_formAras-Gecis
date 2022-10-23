@@ -1,0 +1,11 @@
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\bin\Debug\formlar arası gecış.exe.config
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\bin\Debug\formlar arası gecış.exe
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\bin\Debug\formlar arası gecış.pdb
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\obj\Debug\formlar arası gecış.csproj.AssemblyReference.cache
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\obj\Debug\formlar_arası_gecış.Form1.resources
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\obj\Debug\formlar_arası_gecış.Form2.resources
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\obj\Debug\formlar_arası_gecış.Properties.Resources.resources
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\obj\Debug\formlar arası gecış.csproj.GenerateResource.cache
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\obj\Debug\formlar arası gecış.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\obj\Debug\formlar arası gecış.exe
+C:\Users\90535\source\repos\formlar arası gecış\formlar arası gecış\obj\Debug\formlar arası gecış.pdb
